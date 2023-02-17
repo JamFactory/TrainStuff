@@ -4,7 +4,7 @@ describe('empty spec', () => {
   })
 
   it('opens the index page', () => {
-    cy.get('h1').contains('Neil's Page')
+    cy.get('h1').contains("Neil's Page")
   })
 
   it('navigates to the product page', () => {
