@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Neil's & Cristian's Products
 type: products
 image: /img/products-jumbotron.jpg
 heading: Neil's & Cristian's Products
